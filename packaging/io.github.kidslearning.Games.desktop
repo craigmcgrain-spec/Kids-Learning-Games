@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Kids Learning Games
+Comment=Play bright reading games and practice high-frequency words
+Exec=kids-learning-games
+Icon=applications-education
+Categories=Education;KidsGame;
+Terminal=false
+
